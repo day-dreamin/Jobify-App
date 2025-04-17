@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094853154736",
+    "project_id": "pairpa-f9087",
+    "storage_bucket": "pairpa-f9087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094853154736:android:26d2e12d93a34b98176875",
+        "android_client_info": {
+          "package_name": "com.example.pairpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7XXMMgyix_R7eEoStd3yp7Z1MiSp0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
